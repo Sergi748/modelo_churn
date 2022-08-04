@@ -1,0 +1,41 @@
+RowNumber
+The number of the row
+
+CustomerId
+The unique customer id
+
+Surname
+Customers Surname
+
+CreditScore
+Their credit score
+
+Geography
+Which Country they belong to
+
+Gender
+Their Gender
+
+Age
+Age
+
+Tenure
+The time of bond with company
+
+Balance
+The amount left with them
+
+NumOfProducts
+The products they own.
+
+HasCrCard
+Do they have a credit card or not
+
+IsActiveMember
+How active member they are
+
+EstimatedSalary
+Their estimated salary
+
+Exited
+Whether they stay in the or leave

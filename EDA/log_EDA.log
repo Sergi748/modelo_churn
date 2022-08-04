@@ -1,0 +1,96 @@
+2022-07-29 14:17:08,641 #### Proceso EDA iniciado
+2022-07-29 14:17:08,643 Leyendo dataset Churn_Modelling.csv de la ruta ../Datos/
+2022-07-29 14:17:08,724 shape dataset: (10000, 14)
+2022-07-29 14:17:08,725 En el dataset hay 9 vaiable numericas y 5 categoricas
+2022-07-29 14:17:08,749 Generando fichero csv con el analisis univariante
+2022-07-29 14:17:08,897 Variables que no se van a utilizar a la hora de generar las distintas graficas: (2, ['rownumber', 'customerid'])
+2022-07-29 14:17:08,897 Finalmente, seran utilizadas para generar las distintas graficas 7 vaiables numericas y 5 variables categoricas
+2022-07-29 14:17:09,789 NumExpr defaulting to 8 threads.
+2022-07-29 14:17:23,515 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:17:23,518 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:17:23,580 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:17:23,582 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:17:26,354 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:17:26,356 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:17:26,413 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:17:26,415 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 14:21:20,835 Duracion del proceso 0:04:12.193607
+2022-07-29 14:21:20,835 #### Proceso EDA finalizado
+2022-07-29 16:09:33,597 #### Proceso EDA iniciado
+2022-07-29 16:09:33,600 Leyendo dataset Churn_Modelling.csv de la ruta ../Datos/
+2022-07-29 16:09:33,628 shape dataset: (10000, 14)
+2022-07-29 16:09:33,629 En el dataset hay 8 vaiable numericas y 6 categoricas
+2022-07-29 16:09:33,652 Generando fichero csv con el analisis univariante
+2022-07-29 16:09:33,763 Variables que no se van a utilizar a la hora de generar las distintas graficas: (2, ['rownumber', 'customerid'])
+2022-07-29 16:09:33,763 Finalmente, seran utilizadas para generar las distintas graficas 6 vaiables numericas y 6 variables categoricas
+2022-07-29 16:09:39,356 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:39,357 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:39,374 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:39,375 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,219 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,220 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,245 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,247 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,516 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,516 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,528 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:09:40,528 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:11:04,585 Duracion del proceso 0:01:30.987228
+2022-07-29 16:11:04,585 #### Proceso EDA finalizado
+2022-07-29 16:16:15,355 #### Proceso EDA iniciado
+2022-07-29 16:16:15,356 Leyendo dataset Churn_Modelling.csv de la ruta ../Datos/
+2022-07-29 16:16:15,382 shape dataset: (10000, 14)
+2022-07-29 16:16:15,383 En el dataset hay 7 vaiable numericas y 7 categoricas
+2022-07-29 16:16:15,411 Generando fichero csv con el analisis univariante
+2022-07-29 16:16:15,522 Variables que no se van a utilizar a la hora de generar las distintas graficas: (2, ['rownumber', 'customerid'])
+2022-07-29 16:16:15,522 Finalmente, seran utilizadas para generar las distintas graficas 5 vaiables numericas y 7 variables categoricas
+2022-07-29 16:16:16,142 No numeric types to aggregate
+Traceback (most recent call last):
+  File "<ipython-input-4-821bda5fcae5>", line 14, in <module>
+    plt_num.run(var)
+  File "../../../../Proyecto EDA\functions_eda.py", line 221, in run
+    plot_numerical_var.__var_tramitificada_vs_target(self, var)
+  File "../../../../Proyecto EDA\functions_eda.py", line 200, in __var_tramitificada_vs_target
+    df_plot = __get_cut(self.df, var, self.target, n_bins)
+  File "../../../../Proyecto EDA\functions_eda.py", line 194, in __get_cut
+    df_pr = df_c.groupby(f'{var}_cut').agg({target:['mean', 'count']})
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\groupby\generic.py", line 951, in aggregate
+    result, how = self._aggregate(func, *args, **kwargs)
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\base.py", line 416, in _aggregate
+    result = _agg(arg, _agg_1dim)
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\base.py", line 383, in _agg
+    result[fname] = func(fname, agg_how)
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\base.py", line 367, in _agg_1dim
+    return colg.aggregate(how)
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\groupby\generic.py", line 246, in aggregate
+    ret = self._aggregate_multiple_funcs(func)
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\groupby\generic.py", line 319, in _aggregate_multiple_funcs
+    results[base.OutputKey(label=name, position=idx)] = obj.aggregate(func)
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\groupby\generic.py", line 240, in aggregate
+    return getattr(self, func)(*args, **kwargs)
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\groupby\groupby.py", line 1393, in mean
+    return self._cython_agg_general(
+  File "C:\Users\sc250091\Anaconda3\lib\site-packages\pandas\core\groupby\groupby.py", line 1051, in _cython_agg_general
+    raise DataError("No numeric types to aggregate")
+pandas.core.base.DataError: No numeric types to aggregate
+2022-07-29 16:16:59,584 #### Proceso EDA iniciado
+2022-07-29 16:16:59,586 Leyendo dataset Churn_Modelling.csv de la ruta ../Datos/
+2022-07-29 16:16:59,603 shape dataset: (10000, 14)
+2022-07-29 16:16:59,603 En el dataset hay 8 vaiable numericas y 6 categoricas
+2022-07-29 16:16:59,623 Generando fichero csv con el analisis univariante
+2022-07-29 16:16:59,702 Variables que no se van a utilizar a la hora de generar las distintas graficas: (2, ['rownumber', 'customerid'])
+2022-07-29 16:16:59,702 Finalmente, seran utilizadas para generar las distintas graficas 6 vaiables numericas y 6 variables categoricas
+2022-07-29 16:17:05,866 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:05,867 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:05,899 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:05,901 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,217 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,218 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,241 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,242 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,692 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,698 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,725 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:17:07,727 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-07-29 16:18:35,947 Duracion del proceso 0:01:36.361528
+2022-07-29 16:18:35,947 #### Proceso EDA finalizado
